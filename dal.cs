@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Data.SqlClient;
 
 
-namespace SQL
+namespace IntelTettler
 {
     internal static class DBConnection
     {
@@ -68,6 +68,16 @@ namespace SQL
             var rdr = Send(conn, cmd);
             return Parse(rdr);
         }
+        public static int InsertRow(
+            string sql, 
+            string connectionString = null)
+        {
+            var conn = Connect(connectionString);
+            var cmd = Command(sql);
+            cmd.Connection = conn;
+            return cmd.ExecuteNonQuery();
+        }
+
 
 
         public static void PrintResult(List<Dictionary<string, object>> keyValuePairs)
