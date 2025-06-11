@@ -14,9 +14,9 @@ namespace IntelTettler
             List<Dictionary<string, object>> ServerResponse = new List<Dictionary<string, object>>();
             try
             {
-                string sql = $"SELECT * FROM `aerts` WHERE ID = {id};";
+                string sql = $"SELECT * FROM `alerts` WHERE ID = {id};";
                 ServerResponse = DBConnection.Execute(sql);
-                Logger.Log("");
+                Logger.Log("Retrieving data from sql was successful.");
                 return ServerResponse;
 
             }
@@ -28,7 +28,7 @@ namespace IntelTettler
                 }
                 catch
                 {
-                    Console.WriteLine("");
+                    Console.WriteLine("Writing to log file failed");
                 }
                 Console.WriteLine("Error inserting person:");
                 Console.WriteLine(ex.Message);
@@ -41,7 +41,7 @@ namespace IntelTettler
 
             return getByID(id).Count > 0;
         }
-        public static void NewAerts(int TargetId, DateTime WindowStart,string Reason, DateTime? WindowEnd = null)
+        public static void NewAerts(int TargetId,string Reason)
         {
             int id;
             do
@@ -49,26 +49,20 @@ namespace IntelTettler
                 Random rnd = new Random();
                 id = rnd.Next(1, 1000);
             }
+
             while (TestId(id));
-            string sql;
 
-            if (WindowEnd.HasValue)
-            {
-                sql = "INSERT INTO aerts (Id, TargetId,WindowStart, WindowEnd, Reason) " +
-                 $"VALUES ('{id}', '{TargetId}','{WindowStart:yyyy-MM-dd HH}', '{WindowEnd}', '{Reason}');";
-            }
-            else
-            {
 
-                sql = "INSERT INTO aerts (Id, TargetId,WindowStart,Reason) " +
-                     $"VALUES ('{id}', '{TargetId}','{WindowStart:yyyy-MM-dd HH}','{Reason}');";
-            }
+
+            string sql = "INSERT INTO alerts (Id, TargetId, WindowStart, WindowEnd, Reason, CreatedAt) " +
+             $"VALUES ('{id}', '{TargetId}', NOW(), NULL, '{Reason}', NOW());";
 
 
             try
             {
                 int a = DBConnection.InsertRow(sql);
-                Console.WriteLine("");
+                Logger.Log("Retrieving data from sql was successful.");
+                Console.WriteLine("Retrieving data from sql was successful.");
             }
             catch (Exception ex)
             {

@@ -12,7 +12,7 @@ namespace IntelTettler
         static void Main(string[] args)
         {
           
-            Class1.ReceivingInput();
+            Class1.menu();
         }
     }
 }
