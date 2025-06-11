@@ -95,15 +95,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Aerts.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="dal.cs" />
+    <Compile Include="DalaAerts.cs" />
     <Compile Include="dalPeople.cs" />
+    <Compile Include="dalReports.cs" />
+    <Compile Include="logger.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="log.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

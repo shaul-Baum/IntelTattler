@@ -1,0 +1,34 @@
+2025-06-10 09:51:37 - 
+2025-06-10 09:51:37 - 
+2025-06-10 12:26:10 - 
+2025-06-10 12:26:10 - 
+2025-06-10 17:08:54 - 
+2025-06-10 17:09:05 - Error inserting person:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'or SecretCode =' at line 1
+2025-06-10 17:09:05 - 
+2025-06-10 17:14:42 - 
+2025-06-10 17:14:45 - Error inserting person:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'or SecretCode =' at line 1
+2025-06-10 17:14:45 - 
+2025-06-10 17:15:29 - 
+2025-06-10 17:15:31 - Error inserting person:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'or `SecretCode` =' at line 1
+2025-06-10 17:15:31 - 
+2025-06-10 17:16:12 - 
+2025-06-10 17:16:13 - 
+2025-06-10 17:16:13 - 
+2025-06-10 17:26:22 - 
+2025-06-10 17:26:23 - 
+2025-06-10 17:26:23 - 
+2025-06-10 17:26:23 - 
+2025-06-10 17:26:23 - 
+2025-06-10 17:26:46 - 
+2025-06-10 17:26:46 - 
+2025-06-10 17:26:46 - 
+2025-06-10 17:30:03 - 
+2025-06-10 17:30:39 - 
+2025-06-10 17:30:39 - 
+2025-06-10 17:30:39 - New person created with ID: 458, secret code: t57h and name: shaul
+2025-06-10 17:30:45 - 
+2025-06-10 17:30:45 - 
+2025-06-10 17:30:45 - 
+2025-06-10 17:31:04 - 
+2025-06-10 17:31:04 - 
+2025-06-10 17:31:04 - 
