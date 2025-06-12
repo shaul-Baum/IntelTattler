@@ -1,0 +1,589 @@
+2025-06-10 09:51:37 - 
+2025-06-10 09:51:37 - 
+2025-06-10 12:26:10 - 
+2025-06-10 12:26:10 - 
+2025-06-10 17:08:54 - 
+2025-06-10 17:09:05 - Error inserting person:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'or SecretCode =' at line 1
+2025-06-10 17:09:05 - 
+2025-06-10 17:14:42 - 
+2025-06-10 17:14:45 - Error inserting person:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'or SecretCode =' at line 1
+2025-06-10 17:14:45 - 
+2025-06-10 17:15:29 - 
+2025-06-10 17:15:31 - Error inserting person:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'or `SecretCode` =' at line 1
+2025-06-10 17:15:31 - 
+2025-06-10 17:16:12 - 
+2025-06-10 17:16:13 - 
+2025-06-10 17:16:13 - 
+2025-06-10 17:26:22 - 
+2025-06-10 17:26:23 - 
+2025-06-10 17:26:23 - 
+2025-06-10 17:26:23 - 
+2025-06-10 17:26:23 - 
+2025-06-10 17:26:46 - 
+2025-06-10 17:26:46 - 
+2025-06-10 17:26:46 - 
+2025-06-10 17:30:03 - 
+2025-06-10 17:30:39 - 
+2025-06-10 17:30:39 - 
+2025-06-10 17:30:39 - New person created with ID: 458, secret code: t57h and name: shaul
+2025-06-10 17:30:45 - 
+2025-06-10 17:30:45 - 
+2025-06-10 17:30:45 - 
+2025-06-10 17:31:04 - 
+2025-06-10 17:31:04 - 
+2025-06-10 17:31:04 - 
+2025-06-11 10:34:57 - 
+2025-06-11 10:35:02 - 
+2025-06-11 10:35:02 - 
+2025-06-11 10:35:02 - 
+2025-06-11 10:35:02 - New person created with ID: 101, secret code: 789 and name: anonymous
+2025-06-11 10:35:02 - New person created with ID: 101, secret code: 789 and name: anonymous
+2025-06-11 10:35:15 - 
+2025-06-11 10:35:15 - 
+2025-06-11 10:35:15 - 
+2025-06-11 15:08:24 - 
+2025-06-11 15:08:34 - 
+2025-06-11 15:08:34 - 
+2025-06-11 15:08:34 - New person created with ID: 12456, secret code: 8766 and name: 23
+2025-06-11 15:08:34 - New person created with ID: 12456, secret code: 8766 and name: 23
+2025-06-11 15:08:50 - 
+2025-06-11 15:08:50 - 
+2025-06-11 15:08:50 - 
+2025-06-11 15:08:50 - New person created with ID: 434, secret code: 6794 and name: anonymous
+2025-06-11 15:08:50 - New person created with ID: 434, secret code: 6794 and name: anonymous
+2025-06-11 15:08:55 - Error inserting person:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= 845' at line 1
+2025-06-11 15:08:55 - New alert created successfully in SQL: ID=845, ReporterId=12456, SecretCode=6794, ReportText=????????
+2025-06-11 15:08:55 - Retrieving data from sql was successful.
+2025-06-11 15:14:49 - 
+2025-06-11 15:15:09 - 
+2025-06-11 15:15:09 - 
+2025-06-11 15:15:09 - New person created with ID: 569, secret code: as and name: rty
+2025-06-11 15:15:09 - New person created with ID: 569, secret code: as and name: rty
+2025-06-11 15:15:19 - 
+2025-06-11 15:15:19 - 
+2025-06-11 15:15:19 - 
+2025-06-11 15:15:19 - New person created with ID: 414, secret code: 167 and name: anonymous
+2025-06-11 15:15:19 - New person created with ID: 414, secret code: 167 and name: anonymous
+2025-06-11 15:15:32 - Retrieving data from sql was successful.
+2025-06-11 15:15:32 - New alert created successfully in SQL: ID=500, ReporterId=569, SecretCode=167, ReportText=asuoul
+2025-06-11 15:15:32 - Retrieving data from sql was successful.
+2025-06-11 16:08:53 - 
+2025-06-11 16:08:54 - 
+2025-06-11 16:08:54 - 
+2025-06-11 16:08:54 - 
+2025-06-11 16:08:54 - 
+2025-06-11 16:08:54 - New person created with ID: 816, secret code: 816 and name: anonymous
+2025-06-11 16:08:54 - New person created with ID: 816, secret code: 816 and name: anonymous
+2025-06-11 16:09:00 - Retrieving data from sql was successful.
+2025-06-11 16:09:00 - 
+2025-06-11 16:09:00 - Retrieving data from sql was successful.
+2025-06-11 16:09:00 - Retrieving data from sql was successful.
+2025-06-11 16:09:05 - 
+2025-06-11 16:09:06 - 
+2025-06-11 16:09:06 - 
+2025-06-11 16:09:06 - 
+2025-06-11 16:09:06 - 
+2025-06-11 16:09:06 - New person created with ID: 617, secret code: 975 and name: anonymous
+2025-06-11 16:09:06 - New person created with ID: 617, secret code: 975 and name: anonymous
+2025-06-11 16:09:09 - Retrieving data from sql was successful.
+2025-06-11 16:09:09 - New alert created successfully in SQL: ID=983, ReporterId=123, SecretCode=321, ReportText=qwertyuijhgfd
+2025-06-11 16:09:09 - Retrieving data from sql was successful.
+2025-06-11 16:09:09 - Retrieving data from sql was successful.
+2025-06-11 16:09:13 - 
+2025-06-11 16:09:15 - 
+2025-06-11 16:09:15 - 
+2025-06-11 16:09:15 - 
+2025-06-11 16:09:15 - 
+2025-06-11 16:09:15 - New person created with ID: 125, secret code: 483 and name: anonymous
+2025-06-11 16:09:15 - New person created with ID: 125, secret code: 483 and name: anonymous
+2025-06-11 16:09:17 - Retrieving data from sql was successful.
+2025-06-11 16:09:17 - New alert created successfully in SQL: ID=456, ReporterId=123, SecretCode=321, ReportText=qwertyuijhgfd
+2025-06-11 16:09:17 - Retrieving data from sql was successful.
+2025-06-11 16:09:17 - Retrieving data from sql was successful.
+2025-06-11 16:09:21 - 
+2025-06-11 16:09:22 - 
+2025-06-11 16:09:22 - 
+2025-06-11 16:09:22 - 
+2025-06-11 16:09:22 - 
+2025-06-11 16:09:22 - New person created with ID: 530, secret code: 530 and name: anonymous
+2025-06-11 16:09:22 - New person created with ID: 530, secret code: 530 and name: anonymous
+2025-06-11 16:09:28 - Retrieving data from sql was successful.
+2025-06-11 16:09:28 - New alert created successfully in SQL: ID=403, ReporterId=123, SecretCode=321, ReportText=pppppppppp
+2025-06-11 16:09:28 - Retrieving data from sql was successful.
+2025-06-11 16:09:28 - Retrieving data from sql was successful.
+2025-06-11 16:09:34 - 
+2025-06-11 16:09:35 - 
+2025-06-11 16:09:35 - 
+2025-06-11 16:09:35 - 
+2025-06-11 16:09:35 - 
+2025-06-11 16:09:35 - New person created with ID: 735, secret code: 735 and name: anonymous
+2025-06-11 16:09:35 - New person created with ID: 735, secret code: 735 and name: anonymous
+2025-06-11 16:09:39 - Retrieving data from sql was successful.
+2025-06-11 16:09:39 - New alert created successfully in SQL: ID=405, ReporterId=123, SecretCode=321, ReportText=qeerty
+2025-06-11 16:09:39 - Retrieving data from sql was successful.
+2025-06-11 16:09:39 - Retrieving data from sql was successful.
+2025-06-11 16:09:43 - 
+2025-06-11 16:09:45 - 
+2025-06-11 16:09:45 - 
+2025-06-11 16:09:45 - 
+2025-06-11 16:09:45 - 
+2025-06-11 16:09:45 - New person created with ID: 382, secret code: 382 and name: anonymous
+2025-06-11 16:09:45 - New person created with ID: 382, secret code: 382 and name: anonymous
+2025-06-11 16:09:47 - Retrieving data from sql was successful.
+2025-06-11 16:09:47 - New alert created successfully in SQL: ID=856, ReporterId=123, SecretCode=321, ReportText=qwery
+2025-06-11 16:09:47 - Retrieving data from sql was successful.
+2025-06-11 16:09:47 - Retrieving data from sql was successful.
+2025-06-11 16:09:51 - 
+2025-06-11 16:09:52 - 
+2025-06-11 16:09:52 - 
+2025-06-11 16:09:52 - 
+2025-06-11 16:09:52 - 
+2025-06-11 16:09:52 - New person created with ID: 537, secret code: 895 and name: anonymous
+2025-06-11 16:09:52 - New person created with ID: 537, secret code: 895 and name: anonymous
+2025-06-11 16:09:56 - Retrieving data from sql was successful.
+2025-06-11 16:09:56 - New alert created successfully in SQL: ID=562, ReporterId=123, SecretCode=321, ReportText=1111111111111
+2025-06-11 16:09:56 - Retrieving data from sql was successful.
+2025-06-11 16:09:56 - Retrieving data from sql was successful.
+2025-06-11 16:09:58 - 
+2025-06-11 16:10:00 - 
+2025-06-11 16:10:00 - 
+2025-06-11 16:10:00 - 
+2025-06-11 16:10:00 - 
+2025-06-11 16:10:00 - New person created with ID: 34, secret code: 869 and name: anonymous
+2025-06-11 16:10:00 - New person created with ID: 34, secret code: 869 and name: anonymous
+2025-06-11 16:10:03 - Retrieving data from sql was successful.
+2025-06-11 16:10:03 - New alert created successfully in SQL: ID=860, ReporterId=123, SecretCode=321, ReportText=qwertygd
+2025-06-11 16:10:03 - Retrieving data from sql was successful.
+2025-06-11 16:10:03 - Retrieving data from sql was successful.
+2025-06-11 16:10:06 - 
+2025-06-11 16:10:07 - 
+2025-06-11 16:10:07 - 
+2025-06-11 16:10:07 - 
+2025-06-11 16:10:07 - 
+2025-06-11 16:10:07 - New person created with ID: 363, secret code: 721 and name: anonymous
+2025-06-11 16:10:07 - New person created with ID: 363, secret code: 721 and name: anonymous
+2025-06-11 16:10:09 - Retrieving data from sql was successful.
+2025-06-11 16:10:09 - New alert created successfully in SQL: ID=409, ReporterId=123, SecretCode=321, ReportText=12345
+2025-06-11 16:10:09 - Retrieving data from sql was successful.
+2025-06-11 16:10:09 - Retrieving data from sql was successful.
+2025-06-11 16:10:14 - 
+2025-06-11 16:10:15 - 
+2025-06-11 16:10:15 - 
+2025-06-11 16:10:15 - 
+2025-06-11 16:10:15 - 
+2025-06-11 16:10:15 - New person created with ID: 821, secret code: 821 and name: anonymous
+2025-06-11 16:10:15 - New person created with ID: 821, secret code: 821 and name: anonymous
+2025-06-11 16:10:16 - Retrieving data from sql was successful.
+2025-06-11 16:10:16 - New alert created successfully in SQL: ID=142, ReporterId=123, SecretCode=321, ReportText=
+2025-06-11 16:10:16 - Retrieving data from sql was successful.
+2025-06-11 16:10:16 - Retrieving data from sql was successful.
+2025-06-11 16:10:20 - 
+2025-06-11 16:10:21 - 
+2025-06-11 16:10:21 - 
+2025-06-11 16:10:21 - 
+2025-06-11 16:10:21 - 
+2025-06-11 16:10:21 - New person created with ID: 603, secret code: 603 and name: anonymous
+2025-06-11 16:10:21 - New person created with ID: 603, secret code: 603 and name: anonymous
+2025-06-11 16:10:24 - Retrieving data from sql was successful.
+2025-06-11 16:10:24 - New alert created successfully in SQL: ID=25, ReporterId=123, SecretCode=321, ReportText=11111111111111
+2025-06-11 16:10:24 - Retrieving data from sql was successful.
+2025-06-11 16:10:24 - Retrieving data from sql was successful.
+2025-06-11 16:10:27 - 
+2025-06-11 16:10:29 - 
+2025-06-11 16:10:29 - 
+2025-06-11 16:10:29 - 
+2025-06-11 16:10:29 - 
+2025-06-11 16:10:29 - New person created with ID: 44, secret code: 402 and name: anonymous
+2025-06-11 16:10:29 - New person created with ID: 44, secret code: 402 and name: anonymous
+2025-06-11 16:10:31 - Retrieving data from sql was successful.
+2025-06-11 16:10:31 - New alert created successfully in SQL: ID=466, ReporterId=123, SecretCode=321, ReportText=9
+2025-06-11 16:10:31 - Retrieving data from sql was successful.
+2025-06-11 16:10:31 - Retrieving data from sql was successful.
+2025-06-11 16:10:34 - 
+2025-06-11 16:10:35 - 
+2025-06-11 16:10:35 - 
+2025-06-11 16:10:35 - 
+2025-06-11 16:10:35 - 
+2025-06-11 16:10:35 - New person created with ID: 578, secret code: 578 and name: anonymous
+2025-06-11 16:10:35 - New person created with ID: 578, secret code: 578 and name: anonymous
+2025-06-11 16:10:39 - Retrieving data from sql was successful.
+2025-06-11 16:10:39 - New alert created successfully in SQL: ID=172, ReporterId=123, SecretCode=321, ReportText=10
+2025-06-11 16:10:39 - Retrieving data from sql was successful.
+2025-06-11 16:10:39 - Retrieving data from sql was successful.
+2025-06-11 16:10:47 - 
+2025-06-11 16:10:48 - 
+2025-06-11 16:10:48 - 
+2025-06-11 16:10:48 - 
+2025-06-11 16:10:48 - 
+2025-06-11 16:10:48 - New person created with ID: 838, secret code: 198 and name: anonymous
+2025-06-11 16:10:48 - New person created with ID: 838, secret code: 198 and name: anonymous
+2025-06-11 16:10:56 - Retrieving data from sql was successful.
+2025-06-11 16:10:56 - New alert created successfully in SQL: ID=398, ReporterId=123, SecretCode=321, ReportText=11
+2025-06-11 16:10:56 - Retrieving data from sql was successful.
+2025-06-11 16:10:56 - Retrieving data from sql was successful.
+2025-06-11 16:11:00 - 
+2025-06-11 16:11:01 - 
+2025-06-11 16:11:01 - 
+2025-06-11 16:11:01 - 
+2025-06-11 16:11:01 - 
+2025-06-11 16:11:01 - New person created with ID: 330, secret code: 330 and name: anonymous
+2025-06-11 16:11:01 - New person created with ID: 330, secret code: 330 and name: anonymous
+2025-06-11 16:11:04 - Retrieving data from sql was successful.
+2025-06-11 16:11:04 - New alert created successfully in SQL: ID=498, ReporterId=123, SecretCode=321, ReportText=12
+2025-06-11 16:11:04 - Retrieving data from sql was successful.
+2025-06-11 16:11:04 - Retrieving data from sql was successful.
+2025-06-11 16:11:17 - 
+2025-06-11 16:11:18 - 
+2025-06-11 16:11:19 - 
+2025-06-11 16:11:19 - 
+2025-06-11 16:11:19 - 
+2025-06-11 16:11:19 - New person created with ID: 668, secret code: 668 and name: anonymous
+2025-06-11 16:11:19 - New person created with ID: 668, secret code: 668 and name: anonymous
+2025-06-11 16:11:22 - Retrieving data from sql was successful.
+2025-06-11 16:11:22 - New alert created successfully in SQL: ID=961, ReporterId=123, SecretCode=321, ReportText=13
+2025-06-11 16:11:22 - Retrieving data from sql was successful.
+2025-06-11 16:11:22 - Error inserting person:המפתח הנתון לא נמצא במילון.
+2025-06-11 16:11:22 - 
+2025-06-11 16:11:22 - Error inserting person:Table 'intel_db.aerts' doesn't exist
+2025-06-11 16:11:22 - Suspicion level updated to High for ID:-1
+2025-06-11 16:11:22 - Retrieving data from sql was successful.
+2025-06-11 16:15:07 - 
+2025-06-11 16:15:08 - 
+2025-06-11 16:15:08 - 
+2025-06-11 16:15:08 - 
+2025-06-11 16:15:08 - 
+2025-06-11 16:15:08 - New person created with ID: 776, secret code: 776 and name: anonymous
+2025-06-11 16:15:08 - New person created with ID: 776, secret code: 776 and name: anonymous
+2025-06-11 16:16:37 - 
+2025-06-11 16:16:39 - 
+2025-06-11 16:16:39 - 
+2025-06-11 16:16:39 - 
+2025-06-11 16:16:39 - 
+2025-06-11 16:16:39 - New person created with ID: 410, secret code: 768 and name: anonymous
+2025-06-11 16:16:39 - New person created with ID: 410, secret code: 768 and name: anonymous
+2025-06-11 16:17:32 - Retrieving data from sql was successful.
+2025-06-11 16:17:32 - New alert created successfully in SQL: ID=770, ReporterId=123, SecretCode=321, ReportText=1111
+2025-06-11 16:17:32 - Retrieving data from sql was successful.
+2025-06-11 16:17:32 - Error inserting person:המפתח הנתון לא נמצא במילון.
+2025-06-11 16:17:32 - 
+2025-06-11 16:17:32 - Error inserting person:Table 'intel_db.aerts' doesn't exist
+2025-06-11 16:17:32 - Suspicion level updated to High for ID:-1
+2025-06-11 16:17:32 - Retrieving data from sql was successful.
+2025-06-11 16:20:50 - 
+2025-06-11 16:20:51 - 
+2025-06-11 16:20:53 - Retrieving data from sql was successful.
+2025-06-11 16:20:53 - New alert created successfully in SQL: ID=402, ReporterId=123, SecretCode=321, ReportText=1
+2025-06-11 16:20:53 - Retrieving data from sql was successful.
+2025-06-11 16:20:53 - Error inserting person:המפתח הנתון לא נמצא במילון.
+2025-06-11 16:20:53 - 
+2025-06-11 16:20:53 - Error inserting person:Table 'intel_db.aerts' doesn't exist
+2025-06-11 16:20:53 - Suspicion level updated to High for ID:-1
+2025-06-11 16:20:53 - Retrieving data from sql was successful.
+2025-06-11 16:31:14 - 
+2025-06-11 16:31:16 - 
+2025-06-11 16:31:18 - Retrieving data from sql was successful.
+2025-06-11 16:31:18 - New alert created successfully in SQL: ID=387, ReporterId=123, SecretCode=321, ReportText=1111
+2025-06-11 16:31:18 - Retrieving data from sql was successful.
+2025-06-11 16:31:18 - Error inserting person:המפתח הנתון לא נמצא במילון.
+2025-06-11 16:31:18 - 
+2025-06-11 16:31:18 - Error inserting person:Table 'intel_db.aerts' doesn't exist
+2025-06-11 16:31:18 - Suspicion level updated to High for ID:-1
+2025-06-11 16:31:18 - Retrieving data from sql was successful.
+2025-06-11 16:33:36 - 
+2025-06-11 16:33:38 - 
+2025-06-11 16:33:40 - Retrieving data from sql was successful.
+2025-06-11 16:33:40 - New alert created successfully in SQL: ID=690, ReporterId=123, SecretCode=321, ReportText=11111
+2025-06-11 16:33:40 - Retrieving data from sql was successful.
+2025-06-11 16:33:40 - Error inserting person:המפתח הנתון לא נמצא במילון.
+2025-06-11 16:33:40 - 
+2025-06-11 16:33:40 - Error inserting person:Table 'intel_db.aerts' doesn't exist
+2025-06-11 16:33:41 - Suspicion level updated to High for ID:-1
+2025-06-11 16:33:41 - Retrieving data from sql was successful.
+2025-06-11 16:34:37 - 
+2025-06-11 16:34:39 - 
+2025-06-11 16:34:41 - Retrieving data from sql was successful.
+2025-06-11 16:34:41 - New alert created successfully in SQL: ID=440, ReporterId=123, SecretCode=321, ReportText=111111111111111111111111
+2025-06-11 16:34:41 - Retrieving data from sql was successful.
+2025-06-11 16:34:41 - Error inserting person:המפתח הנתון לא נמצא במילון.
+2025-06-11 16:34:41 - 
+2025-06-11 16:34:41 - Error inserting person:Table 'intel_db.aerts' doesn't exist
+2025-06-11 16:34:41 - Suspicion level updated to High for ID:-1
+2025-06-11 16:34:41 - Retrieving data from sql was successful.
+2025-06-11 16:34:41 - Suspicion level set to 'Trusted Agent' for ID: 123
+2025-06-11 16:42:46 - 
+2025-06-11 16:42:48 - 
+2025-06-11 16:42:50 - Retrieving data from sql was successful.
+2025-06-11 16:42:50 - New alert created successfully in SQL: ID=241, ReporterId=123, SecretCode=321, ReportText=111111111
+2025-06-11 16:42:50 - Retrieving data from sql was successful.
+2025-06-11 16:42:50 - Error inserting person:המפתח הנתון לא נמצא במילון.
+2025-06-11 16:42:50 - 
+2025-06-11 16:42:50 - Error inserting person:Table 'intel_db.aerts' doesn't exist
+2025-06-11 16:42:50 - Suspicion level updated to High for ID:-1
+2025-06-11 16:42:50 - Retrieving data from sql was successful.
+2025-06-11 16:42:50 - Suspicion level set to 'Trusted Agent' for ID: 123
+2025-06-11 16:46:43 - 
+2025-06-11 16:46:44 - 
+2025-06-11 16:46:46 - Retrieving data from sql was successful.
+2025-06-11 16:46:46 - New alert created successfully in SQL: ID=131, ReporterId=123, SecretCode=321, ReportText=???????????
+2025-06-11 16:46:46 - Retrieving data from sql was successful.
+2025-06-11 16:46:46 - Error inserting person:Unable to convert MySQL date/time value to System.DateTime
+2025-06-11 16:46:46 - 
+2025-06-11 16:46:46 - Error inserting person:Table 'intel_db.aerts' doesn't exist
+2025-06-11 16:46:46 - Suspicion level updated to High for ID:-1
+2025-06-11 16:46:46 - Retrieving data from sql was successful.
+2025-06-11 16:46:46 - Suspicion level set to 'Trusted Agent' for ID: 123
+2025-06-11 16:52:26 - 
+2025-06-11 16:52:27 - 
+2025-06-11 16:52:29 - Retrieving data from sql was successful.
+2025-06-11 16:52:29 - New alert created successfully in SQL: ID=316, ReporterId=123, SecretCode=321, ReportText=wwwwwwwwww
+2025-06-11 16:52:29 - Retrieving data from sql was successful.
+2025-06-11 16:52:29 - Error inserting person:Unable to convert MySQL date/time value to System.DateTime
+2025-06-11 16:52:29 - 
+2025-06-11 16:52:29 - Error inserting person:Table 'intel_db.aerts' doesn't exist
+2025-06-11 16:52:29 - Suspicion level updated to High for ID:-1
+2025-06-11 16:52:29 - Retrieving data from sql was successful.
+2025-06-11 16:52:29 - Suspicion level set to 'Trusted Agent' for ID: 123
+2025-06-11 17:01:33 - 
+2025-06-11 17:01:34 - 
+2025-06-11 17:01:38 - Retrieving data from sql was successful.
+2025-06-11 17:01:38 - New alert created successfully in SQL: ID=243, ReporterId=123, SecretCode=321, ReportText=sssssss
+2025-06-11 17:01:38 - Retrieving data from sql was successful.
+2025-06-11 17:01:38 - Error inserting person:Unable to convert MySQL date/time value to System.DateTime
+2025-06-11 17:01:38 - 
+2025-06-11 17:01:38 - Error inserting person:Table 'intel_db.aerts' doesn't exist
+2025-06-11 17:01:38 - Suspicion level updated to High for ID:-1
+2025-06-11 17:01:38 - Retrieving data from sql was successful.
+2025-06-11 17:01:38 - Suspicion level set to 'Trusted Agent' for ID: 123
+2025-06-11 17:11:02 - 
+2025-06-11 17:11:03 - 
+2025-06-11 17:11:07 - Retrieving data from sql was successful.
+2025-06-11 17:11:07 - New alert created successfully in SQL: ID=890, ReporterId=123, SecretCode=321, ReportText=eeeeee
+2025-06-11 17:11:07 - Retrieving data from sql was successful.
+2025-06-11 17:11:07 - Error inserting person:Unable to convert MySQL date/time value to System.DateTime
+2025-06-11 17:11:07 - 
+2025-06-11 17:11:07 - Error inserting person:Table 'intel_db.aerts' doesn't exist
+2025-06-11 17:11:07 - Suspicion level updated to High for ID:-1
+2025-06-11 17:11:07 - Retrieving data from sql was successful.
+2025-06-11 17:11:07 - Suspicion level set to 'Trusted Agent' for ID: 123
+2025-06-11 17:13:16 - 
+2025-06-11 17:13:17 - 
+2025-06-11 17:13:25 - Retrieving data from sql was successful.
+2025-06-11 17:13:26 - New alert created successfully in SQL: ID=619, ReporterId=123, SecretCode=321, ReportText=999999999
+2025-06-11 17:13:26 - Retrieving data from sql was successful.
+2025-06-11 17:13:26 - Error inserting person:Unable to convert MySQL date/time value to System.DateTime
+2025-06-11 17:13:26 - 
+2025-06-11 17:13:26 - Retrieving data from sql was successful.
+2025-06-11 17:13:26 - Suspicion level updated to High for ID:-1
+2025-06-11 17:13:26 - Retrieving data from sql was successful.
+2025-06-11 17:13:26 - Suspicion level set to 'Trusted Agent' for ID: 123
+2025-06-11 17:23:17 - 
+2025-06-11 17:23:18 - 
+2025-06-11 17:23:21 - Retrieving data from sql was successful.
+2025-06-11 17:23:21 - New alert created successfully in SQL: ID=37, ReporterId=123, SecretCode=321, ReportText=??????????
+2025-06-11 17:23:21 - Retrieving data from sql was successful.
+2025-06-11 17:23:21 - Error inserting person:Unable to convert MySQL date/time value to System.DateTime
+2025-06-11 17:23:21 - 
+2025-06-11 17:23:21 - Retrieving data from sql was successful.
+2025-06-11 17:23:21 - Suspicion level updated to High for ID:-1
+2025-06-11 17:23:21 - Retrieving data from sql was successful.
+2025-06-11 17:23:21 - Suspicion level set to 'Trusted Agent' for ID: 123
+2025-06-11 17:26:54 - 
+2025-06-11 17:26:55 - 
+2025-06-11 17:27:02 - Retrieving data from sql was successful.
+2025-06-11 17:27:02 - New alert created successfully in SQL: ID=226, ReporterId=123, SecretCode=321, ReportText=zzzzzzzzzz
+2025-06-11 17:27:02 - Retrieving data from sql was successful.
+2025-06-11 17:27:02 - Error inserting person:Unable to convert MySQL date/time value to System.DateTime
+2025-06-11 17:27:02 - 
+2025-06-11 17:27:02 - Retrieving data from sql was successful.
+2025-06-11 17:27:02 - Suspicion level updated to High for ID:-1
+2025-06-11 17:27:02 - Retrieving data from sql was successful.
+2025-06-11 17:27:02 - Suspicion level set to 'Trusted Agent' for ID: 123
+2025-06-11 17:43:47 - 
+2025-06-11 17:43:49 - 
+2025-06-11 17:43:51 - Retrieving data from sql was successful.
+2025-06-11 17:43:51 - New alert created successfully in SQL: ID=312, ReporterId=123, SecretCode=321, ReportText=111111111
+2025-06-11 17:43:51 - Retrieving data from sql was successful.
+2025-06-11 17:43:51 - Error inserting person:Unable to convert MySQL date/time value to System.DateTime
+2025-06-11 17:43:51 - 
+2025-06-11 17:43:51 - Retrieving data from sql was successful.
+2025-06-11 17:43:51 - Suspicion level updated to High for ID:-1
+2025-06-11 17:43:51 - Retrieving data from sql was successful.
+2025-06-11 17:43:51 - Suspicion level set to 'Trusted Agent' for ID: 123
+2025-06-11 17:45:14 - 
+2025-06-11 17:45:16 - 
+2025-06-11 17:45:19 - Retrieving data from sql was successful.
+2025-06-11 17:45:19 - New alert created successfully in SQL: ID=510, ReporterId=123, SecretCode=321, ReportText=dddddddddddddddd
+2025-06-11 17:45:19 - Retrieving data from sql was successful.
+2025-06-11 17:45:19 - Error inserting person:Unable to convert MySQL date/time value to System.DateTime
+2025-06-11 17:45:19 - 
+2025-06-11 17:45:19 - Retrieving data from sql was successful.
+2025-06-11 17:45:19 - Suspicion level updated to High for ID:-1
+2025-06-11 17:45:19 - Retrieving data from sql was successful.
+2025-06-11 17:45:19 - Suspicion level set to 'Trusted Agent' for ID: 123
+2025-06-11 17:50:09 - 
+2025-06-11 17:50:11 - 
+2025-06-11 17:50:13 - Retrieving data from sql was successful.
+2025-06-11 17:50:13 - New alert created successfully in SQL: ID=782, ReporterId=123, SecretCode=321, ReportText=qqq
+2025-06-11 17:50:13 - Retrieving data from sql was successful.
+2025-06-11 17:50:13 - Error inserting person:Unable to convert MySQL date/time value to System.DateTime
+2025-06-11 17:50:13 - 
+2025-06-11 17:50:13 - Retrieving data from sql was successful.
+2025-06-11 17:50:13 - Suspicion level updated to High for ID:-1
+2025-06-11 17:50:13 - Retrieving data from sql was successful.
+2025-06-11 17:50:13 - Suspicion level set to 'Trusted Agent' for ID: 123
+2025-06-11 18:03:31 - 
+2025-06-11 18:03:33 - 
+2025-06-11 18:03:35 - Retrieving data from sql was successful.
+2025-06-11 18:03:35 - New alert created successfully in SQL: ID=852, ReporterId=123, SecretCode=321, ReportText=qqqqqqqqqq
+2025-06-11 18:03:35 - Retrieving data from sql was successful.
+2025-06-11 18:03:35 - Error inserting person:Unable to convert MySQL date/time value to System.DateTime
+2025-06-11 18:03:35 - 
+2025-06-11 18:03:35 - Retrieving data from sql was successful.
+2025-06-11 18:03:35 - Suspicion level updated to High for ID:-1
+2025-06-11 18:03:35 - Retrieving data from sql was successful.
+2025-06-11 18:03:35 - Suspicion level set to 'Trusted Agent' for ID: 123
+2025-06-11 18:04:52 - 
+2025-06-11 18:04:54 - 
+2025-06-11 18:04:57 - Retrieving data from sql was successful.
+2025-06-11 18:04:57 - New alert created successfully in SQL: ID=760, ReporterId=123, SecretCode=321, ReportText=qqqq
+2025-06-11 18:04:57 - Retrieving data from sql was successful.
+2025-06-11 18:05:52 - Error inserting person:Unable to convert MySQL date/time value to System.DateTime
+2025-06-11 18:06:08 - 
+2025-06-11 18:06:09 - 
+2025-06-11 18:06:10 - Retrieving data from sql was successful.
+2025-06-11 18:06:10 - New alert created successfully in SQL: ID=185, ReporterId=123, SecretCode=321, ReportText=1111
+2025-06-11 18:06:10 - Retrieving data from sql was successful.
+2025-06-11 18:08:09 - 
+2025-06-11 18:08:13 - 
+2025-06-11 18:08:13 - 
+2025-06-11 18:08:13 - New person created with ID: 8302383, secret code: 2 and name: 2
+2025-06-11 18:08:13 - New person created with ID: 8302383, secret code: 2 and name: 2
+2025-06-11 18:09:33 - 
+2025-06-11 18:09:38 - 
+2025-06-11 18:09:40 - Retrieving data from sql was successful.
+2025-06-11 18:09:40 - New alert created successfully in SQL: ID=538, ReporterId=123, SecretCode=321, ReportText=1111
+2025-06-11 18:09:40 - Retrieving data from sql was successful.
+2025-06-11 18:09:40 - Error inserting person:Unable to convert MySQL date/time value to System.DateTime
+2025-06-11 18:09:40 - 
+2025-06-11 18:09:40 - Retrieving data from sql was successful.
+2025-06-11 18:09:40 - Suspicion level updated to High for ID:-1
+2025-06-11 18:09:40 - Retrieving data from sql was successful.
+2025-06-11 18:09:40 - Suspicion level set to 'Trusted Agent' for ID: 123
+2025-06-11 18:10:23 - 
+2025-06-11 18:10:26 - 
+2025-06-11 18:10:29 - Retrieving data from sql was successful.
+2025-06-11 18:10:29 - New alert created successfully in SQL: ID=609, ReporterId=34, SecretCode=402, ReportText=11111
+2025-06-11 18:10:29 - Retrieving data from sql was successful.
+2025-06-11 18:10:29 - Retrieving data from sql was successful.
+2025-06-11 18:50:26 - 
+2025-06-11 18:50:35 - 
+2025-06-11 18:50:35 - 
+2025-06-11 18:50:35 - Error inserting person: Parameter index is out of range.
+2025-06-11 18:50:35 - New person created with ID: 123, secret code: 321 and name: /'?
+2025-06-11 18:51:10 - 
+2025-06-11 18:51:39 - 
+2025-06-11 18:51:39 - 
+2025-06-11 18:51:39 - New person created with ID: 123, secret code: shaul and name: shaul
+2025-06-11 18:51:39 - New person created with ID: 123, secret code: shaul and name: shaul
+2025-06-11 18:51:48 - 
+2025-06-11 18:51:48 - 
+2025-06-11 18:51:48 - 
+2025-06-11 18:51:48 - New person created with ID: 875, secret code: 321 and name: anonymous
+2025-06-11 18:51:48 - New person created with ID: 875, secret code: 321 and name: anonymous
+2025-06-11 18:52:13 - Retrieving data from sql was successful.
+2025-06-11 18:52:13 - New alert created successfully in SQL: ID=898, ReporterId=123, SecretCode=321, ReportText=my prand
+2025-06-11 18:52:13 - Retrieving data from sql was successful.
+2025-06-11 18:52:13 - Retrieving data from sql was successful.
+2025-06-11 18:52:21 - 
+2025-06-11 18:52:22 - 
+2025-06-11 18:52:46 - Retrieving data from sql was successful.
+2025-06-11 18:52:46 - New alert created successfully in SQL: ID=701, ReporterId=123, SecretCode=321, ReportText=not my frand
+2025-06-11 18:52:46 - Retrieving data from sql was successful.
+2025-06-11 18:52:46 - Retrieving data from sql was successful.
+2025-06-11 18:52:46 - 
+2025-06-11 18:52:46 - Retrieving data from sql was successful.
+2025-06-11 18:52:46 - Retrieving data from sql was successful.
+2025-06-11 18:52:46 - Suspicion level updated to High for ID:875
+2025-06-11 18:52:46 - Retrieving data from sql was successful.
+2025-06-11 19:00:56 - 
+2025-06-11 19:01:00 - 
+2025-06-11 19:01:02 - Retrieving data from sql was successful.
+2025-06-11 19:01:02 - New alert created successfully in SQL: ID=712, ReporterId=123, SecretCode=321, ReportText=11111111111
+2025-06-11 19:01:02 - Retrieving data from sql was successful.
+2025-06-11 19:01:02 - Retrieving data from sql was successful.
+2025-06-11 19:01:02 - 
+2025-06-11 19:01:02 - Retrieving data from sql was successful.
+2025-06-11 19:01:02 - Retrieving data from sql was successful.
+2025-06-11 19:01:02 - Suspicion level updated to High for ID:875
+2025-06-11 19:01:02 - Retrieving data from sql was successful.
+2025-06-11 19:04:04 - 
+2025-06-11 19:04:25 - 
+2025-06-11 19:04:25 - 
+2025-06-11 19:04:25 - New person created with ID: 456, secret code: 098 and name: ert
+2025-06-11 19:04:25 - New person created with ID: 456, secret code: 098 and name: ert
+2025-06-11 19:04:32 - 
+2025-06-11 19:04:32 - 
+2025-06-11 19:04:32 - 
+2025-06-11 19:04:32 - New person created with ID: 154, secret code: 654 and name: anonymous
+2025-06-11 19:04:32 - New person created with ID: 154, secret code: 654 and name: anonymous
+2025-06-11 19:04:38 - Retrieving data from sql was successful.
+2025-06-11 19:04:38 - New alert created successfully in SQL: ID=152, ReporterId=456, SecretCode=654, ReportText=234
+2025-06-11 19:04:38 - Retrieving data from sql was successful.
+2025-06-11 19:04:38 - Retrieving data from sql was successful.
+2025-06-11 19:04:46 - 
+2025-06-11 19:04:50 - 
+2025-06-11 19:04:53 - Retrieving data from sql was successful.
+2025-06-11 19:04:53 - New alert created successfully in SQL: ID=193, ReporterId=456, SecretCode=654, ReportText=4444
+2025-06-11 19:04:53 - Retrieving data from sql was successful.
+2025-06-11 19:04:53 - Retrieving data from sql was successful.
+2025-06-11 19:04:53 - 
+2025-06-11 19:04:53 - Retrieving data from sql was successful.
+2025-06-11 19:04:53 - Retrieving data from sql was successful.
+2025-06-11 19:04:53 - Retrieving data from sql was successful.
+2025-06-11 19:17:57 - 
+2025-06-11 19:17:59 - 
+2025-06-11 19:18:01 - Retrieving data from sql was successful.
+2025-06-11 19:18:01 - New alert created successfully in SQL: ID=195, ReporterId=123, SecretCode=321, ReportText=111
+2025-06-11 19:18:01 - Retrieving data from sql was successful.
+2025-06-11 19:18:01 - Retrieving data from sql was successful.
+2025-06-11 19:18:01 - 
+2025-06-11 19:18:01 - Retrieving data from sql was successful.
+2025-06-11 19:18:01 - Retrieving data from sql was successful.
+2025-06-11 19:18:01 - Suspicion level updated to High for ID:875
+2025-06-11 19:18:01 - Retrieving data from sql was successful.
+2025-06-11 19:19:02 - 
+2025-06-11 19:19:08 - 
+2025-06-11 19:19:08 - 
+2025-06-11 19:19:08 - New person created with ID: 98, secret code: ccc and name: cccc
+2025-06-11 19:19:08 - New person created with ID: 98, secret code: ccc and name: cccc
+2025-06-11 19:19:15 - 
+2025-06-11 19:19:15 - 
+2025-06-11 19:19:15 - 
+2025-06-11 19:19:15 - New person created with ID: 225, secret code: 890 and name: anonymous
+2025-06-11 19:19:15 - New person created with ID: 225, secret code: 890 and name: anonymous
+2025-06-11 19:19:18 - Retrieving data from sql was successful.
+2025-06-11 19:19:18 - New alert created successfully in SQL: ID=783, ReporterId=98, SecretCode=890, ReportText=000000
+2025-06-11 19:19:18 - Retrieving data from sql was successful.
+2025-06-11 19:19:18 - Retrieving data from sql was successful.
+2025-06-11 19:19:23 - 
+2025-06-11 19:19:25 - 
+2025-06-11 19:19:28 - Retrieving data from sql was successful.
+2025-06-11 19:19:28 - New alert created successfully in SQL: ID=430, ReporterId=98, SecretCode=890, ReportText=bbbbb
+2025-06-11 19:19:28 - Retrieving data from sql was successful.
+2025-06-11 19:19:28 - Retrieving data from sql was successful.
+2025-06-11 19:19:28 - 
+2025-06-11 19:19:28 - Retrieving data from sql was successful.
+2025-06-11 19:19:28 - Retrieving data from sql was successful.
+2025-06-11 19:19:28 - Suspicion level updated to High for ID:225
+2025-06-11 19:19:28 - Retrieving data from sql was successful.
+2025-06-11 19:20:27 - 
+2025-06-11 19:20:33 - 
+2025-06-11 19:20:33 - 
+2025-06-11 19:20:33 - 
+2025-06-11 19:20:33 - New person created with ID: 894, secret code: 3333 and name: anonymous
+2025-06-11 19:20:33 - New person created with ID: 894, secret code: 3333 and name: anonymous
+2025-06-11 19:20:37 - Retrieving data from sql was successful.
+2025-06-11 19:20:37 - New alert created successfully in SQL: ID=188, ReporterId=123, SecretCode=3333, ReportText=3333
+2025-06-11 19:20:37 - Retrieving data from sql was successful.
+2025-06-11 19:20:37 - Retrieving data from sql was successful.
+2025-06-11 19:20:37 - Suspicion level set to 'Trusted Agent' for ID: 123
