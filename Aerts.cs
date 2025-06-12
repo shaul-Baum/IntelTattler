@@ -8,15 +8,21 @@ namespace IntelTettler
 {
     internal class Aerts
     {
-        public static void CreateAlert(int id)
+        public static void CreateAlert(string SecretCode ,int ReporterId)
         {
-            if (dalReports.getByID(id).Count > 15)
+            if (dalReports.getBySecretCode(SecretCode).Count > 1)
             {
+                int id = dalPeople.gatIdBySecretCode(SecretCode);
                 dalPeople.SuspicionLevel(id);
-                DateTime time = DateTime.Now;
                 string Reason = "";
-                DalaAerts.NewAerts(id, time, Reason);
+                DalaAerts.NewAerts(id,Reason);
+
+                dalPeople.AddingSuspect(id);
+               
+
             }
+
+           
         }
     }
 }

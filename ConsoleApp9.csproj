@@ -102,6 +102,7 @@
     <Compile Include="dalPeople.cs" />
     <Compile Include="dalReports.cs" />
     <Compile Include="logger.cs" />
+    <Compile Include="people.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
